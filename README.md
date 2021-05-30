@@ -1,4 +1,7 @@
 
+### 暂定标题
+> *写给 Python 开发者的 C++ 教程*
+
 ### Source
 - [C++ for Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html)
 
@@ -17,8 +20,3 @@
 
 ### TODO
 - [ ] contact the author when you finished at least **half** of them
-
-### Why
-1. 下载即读
-2. 不同程度的读者可利用 Issue 或 Pull Request 贡献
-3. 没有任何令人反胃的 *掘金*, *知乎*, *cnblogs*, *gitbook* 的垃圾广告、垃圾字体渲染、垃圾 CDN、垃圾弹窗
