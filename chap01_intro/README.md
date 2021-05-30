@@ -3,7 +3,7 @@
 
 ### Translation Progress
 - [x] [1.1 Welcome to *C++ for Python Programmers*](./chap01_sec01_welcome.md)
-- [ ] [1.2 Introduction](./chap01_sec02_introduction.md)
+- [x] [1.2 Introduction](./chap01_sec02_introduction.md)
 - [ ] [1.3 Why Learn Another Programming Language?](./chap01_sec03_where_learn_cpp.md)
 - [ ] [1.4 Let's look at a C++ Program](./chap01_sec04_a_cpp_program.md)
 - [ ] [1.5 Summary](./chap01_sec05_summary.md)
