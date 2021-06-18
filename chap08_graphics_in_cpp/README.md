@@ -2,9 +2,9 @@
 - [Chapter 08 - Graphics in C++](https://runestone.academy/runestone/books/published/cpp4python/Turtles/toctree.html)
 
 ### Translation Progress
-- [ ] [8.1. Introduction](./chap08_sec01_introduction.md)
-- [ ] [8.2. What are Turtles?](./chap08_sec02_what_are_Turtles.md)
-- [ ] [8.3. Turtles in C++](./chap08_sec03_Turtles_in_Cpp.md)
+- [x] [8.1. Introduction](./chap08_sec01_introduction.md)
+- [x] [8.2. What are Turtles?](./chap08_sec02_what_are_Turtles.md)
+- [x] [8.3. Turtles in C++](./chap08_sec03_Turtles_in_Cpp.md)
 - [ ] [8.4. Turtle & TurtleScreen](./chap08_sec04_Turtle_and_TurtleScreen.md)
 - [ ] [8.5. Geometry, Shapes, and Stamps](./chap08_sec05_geometry_shapes_and_stamps.md)
 - [ ] [8.6. Advanced Features](./chap08_sec06_advanced_features.md)
