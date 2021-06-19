@@ -1,10 +1,11 @@
 
 ### 6.11. 考考你自己
 > 以下哪些库是用于输入输出的？（多选）
-    >> a. `fstream`
-    >> b. `ifstream`
-    >> c. `ofstream`
-    >> d. `iostream`
+>
+> 1. `fstream`
+> 2. `ifstream`
+> 3. `ofstream`
+> 4. `iostream`
 
 > 根据需求选择正确的库名：
 >

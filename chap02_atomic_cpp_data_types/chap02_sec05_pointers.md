@@ -99,11 +99,12 @@ int main() {
 ```
 
 > 如果你将 `varN = 50;` 和 `cout << *ptrN << endl;` 放在指针变量 `ptrN` 的声明后，它会输出什么？（单选）
-    >> a. `varPntr: 9`
-    >> b. `varPntr: 50`
-    >> c. `varPntr: 150`
-    >> d. `0x7ffeb9ce053c`
-    >> c. 以上都不是
+>
+> 1. `varPntr: 9`
+> 2. `varPntr: 50`
+> 3. `varPntr: 150`
+> 4. `0x7ffeb9ce053c`
+> 5. 以上都不是
 
 > 以上代码编译运行后会输出：变量 `varN` 的值、指针变量 `ptrN` 里的东西（即 `varN` 的地址）以及 `ptrN` 所指向内存位置中的存储的值。
 >

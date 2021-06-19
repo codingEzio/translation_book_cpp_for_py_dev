@@ -29,9 +29,10 @@ out_stream.close();
 ```
 
 > 假设你要向一个含有重要内容的文件添加内容，`ofstream` 是正确的选择吗？（单选）
-    >> a. 合适，我们必须使用 `ofstream` 才能编辑文件
-    >> b. 合适，若不先用 `ofstream` 方法，`ifstream` 会清空文件内容
-    >> c. 不合适，将 `ofstream` 用在有内容的文件上会清空文件内容
-    >> d. 不合适，`ofstream` 专用于读文件
+>
+> 1. 合适，我们必须使用 `ofstream` 才能编辑文件
+> 2. 合适，若不先用 `ofstream` 方法，`ifstream` 会清空文件内容
+> 3. 不合适，将 `ofstream` 用在有内容的文件上会清空文件内容
+> 4. 不合适，`ofstream` 专用于读文件
 
 
