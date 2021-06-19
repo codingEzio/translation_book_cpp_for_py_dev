@@ -30,9 +30,19 @@ char   cpp_cstring = {"Hello World!"};  // C-string (或字符数组)使用双�
 | `find`      | `astring.find(item)`        | 返回首次找到指定字符的索引位置 |
 | `size`      | `astring.size()`            | 返回字符串大小                 |
 
-
-#### 5.4.1. _
-> 搭配部分已忽略
+https://runestone.academy/runestone/books/published/cpp4python/CollectionData/Strings.html#matching
+#### 5.4.1. 搭配
+| 操作函数 | 解释 |
+| :------- | :--- |
+| `_`      | _    |
+| `_`      | _    |
+| `_`      | _    |
+| `_`      | _    |
+| `_`      | _    |
+| `_`      | _    |
+| `_`      | _    |
+| `_`      | _    |
+| `_`      | _    |
 
 ```cpp
 #include <iostream>

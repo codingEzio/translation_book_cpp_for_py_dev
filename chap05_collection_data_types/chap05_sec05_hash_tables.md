@@ -97,6 +97,12 @@ main()
 | `begin` | `mymap.begin()`    | 返回一个指向指向首个元素的迭代器            |
 | `end`   | `mymap.end(key)`   | 返回一个指向越过尾部元素的迭代器            |
 
-
-#### 5.5.1. _
-> 搭配部分已忽略
+https://runestone.academy/runestone/books/published/cpp4python/CollectionData/HashTables.html#matching
+#### 5.5.1. 搭配
+| 操作函数 | 解释 |
+| :------- | :--- |
+| `_`      | _    |
+| `_`      | _    |
+| `_`      | _    |
+| `_`      | _    |
+| `_`      | _    |

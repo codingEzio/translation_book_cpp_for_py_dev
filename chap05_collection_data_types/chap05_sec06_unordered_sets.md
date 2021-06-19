@@ -48,5 +48,13 @@ int main() {
 }
 ```
 
-#### 5.6.1. _
-> 搭配部分已忽略
+https://runestone.academy/runestone/books/published/cpp4python/CollectionData/UnorderedSet.html#matching
+#### 5.6.1. 搭配
+| 操作函数 | 解释 |
+| :------- | :--- |
+| `_`      | _    |
+| `_`      | _    |
+| `_`      | _    |
+| `_`      | _    |
+| `_`      | _    |
+| `_`      | _    |
