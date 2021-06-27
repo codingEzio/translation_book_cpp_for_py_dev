@@ -9,12 +9,16 @@
 > 在 C++ 里，每个变量直接存储在内存中，并不需要引用或是对象来存。这样做访问起来很快，这也是为什么每次我们要给变量指定类型，提前分配好每个变量能占用的空间。
 
 > Python 图示
-    >> `varN = 100`
-    >> <img src="../_images/chap02_sec05_reference_python.png" height="auto" width="50%" margin="auto" alt="Python Reference">
+>
+> `varN = 100`
+>
+> <img src="../_images/chap02_sec05_reference_python.png" height="auto" width="50%" margin="auto" alt="Python Reference">
 
 > C++ 图示
-    >> `int varN = 100;`
-    >> <img src="../_images/chap02_sec05_reference_cpp.png" height="auto" width="50%" margin="auto" alt="C++ Reference">
+>
+> `int varN = 100;`
+>
+> <img src="../_images/chap02_sec05_reference_cpp.png" height="auto" width="50%" margin="auto" alt="C++ Reference">
 
 
 > 每次我们使用变量名来输出对应的数据。
@@ -75,7 +79,8 @@ ptrN = &varN;   // 存储内存地址
 ```
 
 > 运行以上代码后
-    >> <img src="../_images/chap02_sec05_pointer_decl_and_assign.png" height="auto" width="50%" margin="auto" alt="View into memory with pointers">
+>
+> <img src="../_images/chap02_sec05_pointer_decl_and_assign.png" height="auto" width="50%" margin="auto" alt="View into memory with pointers">
 
 
 #### 2.5.2. 从指针访问变量值
@@ -132,7 +137,8 @@ int main( ) {
 ```
 
 > 糟了，糟了，糟了！
-    >> <img src="../_images/chap02_sec05_pointer_dangling_reference.png" height="auto" width="50%" margin="auto" alt="C++ dangling pointer reference">
+>
+> <img src="../_images/chap02_sec05_pointer_dangling_reference.png" height="auto" width="50%" margin="auto" alt="C++ dangling pointer reference">
 
 > 如果你的编译器并未捕捉到这个错误（尤其是这类），第一个 `cout` 将会输出 `After changing *ptrN, varN now has: 50`
 >

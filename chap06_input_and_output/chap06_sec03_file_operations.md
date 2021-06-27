@@ -6,7 +6,8 @@ in_stream.open("myFile.txt")
 ```
 
 > 一旦连接后，我们的程序就能够读取文件中的内容了：
-    >> <img src="../_images/chap06_sec03_file_ifstream_read.jpg" height="auto" width="50%" margin="auto" alt="File Operation - Read - ifstream">
+>
+> <img src="../_images/chap06_sec03_file_ifstream_read.jpg" height="auto" width="50%" margin="auto" alt="File Operation - Read - ifstream">
 
 > `ofstream` 也有同名的 `open()` 方法，但其定义要与用于读取文件的 `ifstream` 有所不同：
 ```cpp
@@ -14,7 +15,8 @@ out_stream.open("anotherFile.txt")
 ```
 
 > 形象地说，我们通过程序中的 `ofstream` 方法开设了一条由文件内流向外部程序的数据管道：
-    >> <img src="../_images/chap06_sec03_file_ofstream_write.jpg" height="auto" width="50%" margin="auto" alt="File Operation - Write - ofstream">
+>
+> <img src="../_images/chap06_sec03_file_ofstream_write.jpg" height="auto" width="50%" margin="auto" alt="File Operation - Write - ofstream">
 
 > 以上的 `out_stream` 由 `ofstream` 声明。当你使用它尝试连接文件时，它会有两种行为：若文件不存在，它会自动根据给定的文件名创建；若文件已存在，它会清除已有文件内中的所有内容，然后以随后写的内容替换之。
 

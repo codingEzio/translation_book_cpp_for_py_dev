@@ -20,7 +20,8 @@ turtle.shape("square");
 | \          | \                   | \         | `(5, 5)`   |
 
 > 以默认的 `indented_triangle` 形状为例，此为逆时针方向的实际性质。
-    >> <img src="./images/../../_images/chap08_sec05_shape_indented_triangle.png" height="50%" width="200px" margin="auto" alt="Indented Triangle Definition">
+>
+> <img src="./images/../../_images/chap08_sec05_shape_indented_triangle.png" height="50%" width="200px" margin="auto" alt="Indented Triangle Definition">
 
 > 以下我们演示了如何创建你自己的海龟形状。我们主要使用 `Polygon` 类来表示我们的形状。在此例中我们将默认的 `triangle` 改为倒立的三角形。
 ```cpp
