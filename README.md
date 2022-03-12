@@ -32,7 +32,7 @@
 4. 我仅可能选用了正确的标点符号（中英规范不同）
 5. 不同语言程度的读者可利用 Issue 或 Pull Request 贡献
 6. 相关链接在考虑上下文的情况下，被我替换为等价的中文内容网站
-7. 没有任何令人反胃的 *掘金*、*知乎*、*CSDN*、*cnblogs*、*Gitbook* 的垃圾广告、垃圾字体渲染、垃圾 CDN、垃圾弹窗
+7. 没有这些平台上的 *掘金*、*知乎*、*CSDN*、*cnblogs*、*Gitbook* 的🗑广告、🗑字体渲染、🗑 CDN、🗑弹窗
 
 ### Translation Preferences
 - Preference
